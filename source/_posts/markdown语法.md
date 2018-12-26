@@ -2,6 +2,13 @@
 title: markdown语法
 date: 2018-12-25 09:46:58
 tags:
+- 表格
+- 超链接
+- 列表
+categories:
+- 文字
+- 标题相关
+cover_picture: /images/99.jpg
 ---
 # 标题相关
 ## 二级标题
@@ -27,6 +34,10 @@ tags:
 # 分割线
 三个或三个以上的~或者*
 
+***
+
+---
+
 # 超链接
 [跳转到百度](http://www.baidu.com)
 [链接内容](目标地址)
@@ -35,8 +46,8 @@ tags:
 ![图片的alt](图片src)
 alt：图片加载失败的时候显示的文字
 src：图片链接/路径
-
-![表情包](http://www.doutula.com/template/2017/03/template_1488793278.JPG)
+![表情包](/表情包/qq.jpg)
+![表情包](/表情包/dd.jpg)
 ![笑脸](/表情包/l.jpg)
 ![笑脸](/表情包/ll.jpg)
 # 图片超链接
